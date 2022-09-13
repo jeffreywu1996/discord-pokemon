@@ -1,0 +1,4 @@
+aiohttp
+discord.py
+firebase_admin
+pokepy
